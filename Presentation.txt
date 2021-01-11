@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0060)file:///tmp/lu9315u6qb20.tmp/lu9315u6qb23.tmp/webpreview.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.6.2 (Linux)">
+	<meta name="created" content="2018-12-18T21:12:51.266187737">
+	<meta name="changed" content="2018-12-18T21:19:18.584263969">
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+	</style>
+</head>
+<body lang="fr-FR" dir="ltr">
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><font size="4" style="font-size: 12pt"><b>Travelling
+Selesman Problem</b></font></p>
+<p align="center" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+<font size="3" style="font-size: 10pt">By PAJANY Allan, KIROV Mihail,
+ABDALLAH Haribou</font></p>
+<p align="left" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+</p>
+<p align="left" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+<font size="3" style="font-size: 9pt">Welcome in TSP Genetic
+Algorithm, this program give the shortest round passing once by each
+cities.</font></p>
+<p align="left" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+
+</p>
+<p align="left" style="font-weight: normal"><font size="3" style="font-size: 9pt">You
+can load a file containing cities informations in the following
+format:</font></p>
+<p align="left" style="font-weight: normal"><font size="3" style="font-size: 9pt">"Cityname" x y</font></p>
+<p align="left" style="font-weight: normal"><font size="3" style="font-size: 9pt">or
+generate cities randomly pointing out their number.</font></p>
+
+</body></html>
